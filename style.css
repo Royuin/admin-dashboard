@@ -35,4 +35,6 @@ aside {
 
 nav {
   display: grid;
+  gap: 15px;
+  margin-left: 15%;
 }
