@@ -27,3 +27,7 @@ main {
 aside {
   grid-row: 1 / 3;
 }
+
+nav {
+  display: grid;
+}
