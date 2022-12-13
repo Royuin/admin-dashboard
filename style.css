@@ -1,3 +1,7 @@
+:root {
+  --light-green: #22c55e;
+}
+
 * {
   margin: 0;
   padding: 0;
