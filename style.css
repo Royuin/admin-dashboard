@@ -38,3 +38,9 @@ nav {
   gap: 15px;
   margin-left: 15%;
 }
+
+a {
+  display: flex;
+  align-items: center;
+  gap: 8%;
+}
