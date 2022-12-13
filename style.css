@@ -23,3 +23,7 @@ body {
 main {
   grid-area: 2 / 2 / 3 / 3;
 }
+
+aside {
+  grid-row: 1 / 3;
+}
