@@ -44,3 +44,13 @@ nav {
   justify-items: center;
   margin-right: 5%;
 }
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline black 3px;
+  color: black;
+}
