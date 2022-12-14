@@ -33,6 +33,10 @@ aside {
   background-color: var(--light-green);
 }
 
+.dash-icon {
+  width: 50px;
+}
+
 nav {
   display: grid;
   gap: 15px;
