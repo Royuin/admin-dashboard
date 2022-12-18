@@ -1,5 +1,7 @@
 :root {
   --light-green: #22c55e;
+  --dark-green: #065f46;
+  --desaturated-green: #76b39e;
 }
 
 * {
@@ -72,4 +74,12 @@ a:hover {
   align-items: center;
   height: 50px;
   padding-top: 10px;
+}
+
+#search {
+  background-color: var(--desaturated-green);
+  border-radius: 10px;
+  padding-left: 5px;
+  flex-grow: 1;
+  margin-right: 10%;
 }
