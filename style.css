@@ -37,12 +37,10 @@ aside {
   width: 50px;
 }
 
-nav {
+ul {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 2fr;
   align-items: center;
-  justify-items: center;
-  margin-right: 5%;
 }
 
 a {
