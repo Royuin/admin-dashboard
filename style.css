@@ -32,7 +32,7 @@ ul {
   display: grid;
   grid-template-columns: 1fr 2fr;
   align-items: center;
-  margin: 5% 0 40% 0;
+  margin: 10px 0 40% 0;
   row-gap: 20px;
 }
 
@@ -65,4 +65,11 @@ a:hover {
   height: 40px;
   width: 40px;
   border-radius: 50%;
+}
+
+.top-of-header {
+  display: flex;
+  align-items: center;
+  height: 50px;
+  padding-top: 10px;
 }
