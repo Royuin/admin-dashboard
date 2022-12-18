@@ -41,6 +41,8 @@ ul {
   display: grid;
   grid-template-columns: 1fr 2fr;
   align-items: center;
+  margin: 5% 0 40% 0;
+  row-gap: 20px;
 }
 
 li {
