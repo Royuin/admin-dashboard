@@ -107,3 +107,9 @@ a:hover {
   margin: 0 6% 0 2%;
   gap: 2%;
 }
+
+.profile {
+  display: flex;
+  gap: 2%;
+  align-items: center;
+}
