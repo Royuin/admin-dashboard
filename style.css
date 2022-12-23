@@ -10,7 +10,13 @@
   font: inherit;
 }
 
+@font-face {
+  font-family: Inter-font;
+  src: url(/fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+
 body {
+  font-family: Inter-font, sans-serif;
   display: grid;
   grid-template-columns: minmax(175px, 1fr) 6fr;
 }
