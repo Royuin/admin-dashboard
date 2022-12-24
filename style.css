@@ -125,3 +125,7 @@ button {
   height: 55%;
   border: none;
 }
+
+button:hover {
+  border: 3px solid var(--light-green);
+}
