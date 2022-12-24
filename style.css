@@ -117,3 +117,11 @@ a:hover {
 .profile > p::first-line {
   font-size: 0.75rem;
 }
+
+button {
+  background-color: var(--dark-green);
+  color: #fff;
+  border-radius: 15px;
+  height: 55%;
+  border: none;
+}
