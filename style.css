@@ -133,3 +133,7 @@ button:hover {
 header {
   font-weight: bold;
 }
+
+main {
+  background-color: var(--desaturated-green);
+}
