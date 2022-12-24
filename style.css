@@ -137,5 +137,6 @@ header {
 }
 
 main {
+  padding-top: 30px;
   background-color: var(--desaturated-green);
 }
