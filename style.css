@@ -132,6 +132,8 @@ button:hover {
 
 header {
   font-weight: bold;
+  box-shadow: 0 5px 25px var(--dark-green);
+  position: relative;
 }
 
 main {
