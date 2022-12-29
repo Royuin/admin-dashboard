@@ -138,6 +138,14 @@ header {
 }
 
 main {
-  padding-top: 30px;
+  padding: 3% 0 3% 0;
   background-color: var(--desaturated-green);
+}
+
+.card {
+  padding: 20px;
+  font-size: 0.75rem;
+  background-color: #fff;
+  border-left: 5px solid #ffaa00;
+  border-radius: 8px;
 }
