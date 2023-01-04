@@ -192,3 +192,15 @@ h4 {
   align-self: flex-end;
   gap: 25%;
 }
+
+.card > h3 {
+  font-size: 0.9rem;
+}
+
+.main-side-grid > .card > p {
+  font-size: 0.6rem;
+}
+
+h2 {
+  font-size: 1rem;
+}
