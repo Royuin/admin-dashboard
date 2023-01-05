@@ -33,6 +33,10 @@ aside {
   background-color: var(--light-green);
 }
 
+nav {
+  position: fixed;
+}
+
 .dash-icon {
   width: 50px;
 }
