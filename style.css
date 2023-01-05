@@ -225,6 +225,10 @@ h4 {
   column-gap: 3%;
 }
 
+.trending-heading + .card > p::first-line {
+  font-weight: bold;
+}
+
 .card > img {
   width: 50px;
   height: 50px;
